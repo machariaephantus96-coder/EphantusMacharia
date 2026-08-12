@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Analyst | Lux Dev Academy Learner
 📍 Nairobi, Kenya
-📊 Turning raw data into insight and decisions
+
 
 ---
 
@@ -10,7 +10,7 @@
 
 I'm currently building a strong foundation in **Data Analytics at Lux Dev Academy**, developing practical skills across the full analytics workflow — querying and cleaning data with SQL, exploring and transforming it with Python, and presenting it clearly through Excel and Power BI dashboards.
 
-I believe great data work isn't just about the numbers — it's about telling the story behind them. Whether it's a pivot table that reveals a trend or a dashboard that gives someone clarity at a glance, I'm drawn to the moment data becomes insight. I'm actively growing my portfolio and looking for opportunities to apply what I've learned in real-world contexts.
+I believe great data work isn't just about the numbers , it's about telling the story behind them. Whether it's a pivot table that reveals a trend or a dashboard that gives someone clarity at a glance, I'm drawn to the moment data becomes insight. I'm actively growing my portfolio and looking for opportunities to apply what I've learned in real-world contexts.
 
 ---
 
@@ -77,8 +77,8 @@ A reference setup documenting the tools and environment behind my analysis work 
 ## 🤝 Let's Connect
 
 - 📧 Email: [machariaephantus96@gmail.com](mailto:machariaephantus96@gmail.com)
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- ✍️ Dev.to: *(add your Dev.to handle here)*
+- 💼 LinkedIn:
+- ✍️ Dev.to: *(https://dev.to/ephantus_macharia_)
 - 📍 Nairobi, Kenya · Open to internships and entry-level data roles
 
 ---
