@@ -78,7 +78,7 @@ A reference setup documenting the tools and environment behind my analysis work 
 
 - 📧 Email: [machariaephantus96@gmail.com](mailto:machariaephantus96@gmail.com)
 - 💼 LinkedIn:
-- ✍️ Dev.to: *(https://dev.to/ephantus_macharia_)
+- ✍️ Dev.to: *(https://dev.to/ephantus_macharia_)*
 - 📍 Nairobi, Kenya · Open to internships and entry-level data roles
 
 ---
