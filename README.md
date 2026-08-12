@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ephantus Macharia
+# Hi 👋, I'm EphantusMacharia
 
 🎯 Aspiring Data Analyst | Lux Dev Academy Learner
 📍 Nairobi, Kenya
